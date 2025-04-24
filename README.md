@@ -21,7 +21,7 @@ This is a Python library for controlling DFRobot's Dynamixel motors using SPI co
 | SCK         | GPIO13               | GPIO11               |
 | MISO        | GPIO12               | GPIO9                |
 | MOSI        | GPIO11               | GPIO10               |
-| CS          | GPIO8                | GPIO8                |
+| CS          | GPIO10               | GPIO8                |
 
 ## Setup
 
