@@ -1,4 +1,4 @@
-# dfRobot Dynamixel SPI with Python
+# DFROBOT Dynamixel SPI with Python
 
 This is a Python library for controlling DFRobot's Dynamixel motors using SPI communication.
 
